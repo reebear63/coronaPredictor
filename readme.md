@@ -1,6 +1,7 @@
 coronaPredictor project
 (by Murtaza Hassan)
 
+Please visit his great Education page on
 https://www.murtazahassan.com/courses/machine-learning-with-python/lesson/polynomial-regression-covid-19-predictor/
 
 ```code=bash
